@@ -1,0 +1,11 @@
+# Vercel
+.vercel
+
+# System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+deploy.bat
+
+
+.vercel
